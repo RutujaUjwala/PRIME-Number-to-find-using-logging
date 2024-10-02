@@ -1,0 +1,100 @@
+2024-09-28 19:57:24,581INFO processing each element,1
+2024-09-28 19:57:24,582INFO processing each element,2
+2024-09-28 19:57:24,582INFO processing each element,sham
+2024-09-28 19:57:24,582INFO processing each element,[3, 'hello', 'world']
+2024-09-28 19:57:24,582INFO processing sublist element:3
+2024-09-28 19:57:24,582INFO processing sublist element:hello
+2024-09-28 19:57:24,582INFO processing sublist element:world
+2024-09-28 19:57:24,582INFO processing each element,[44, 'python']
+2024-09-28 19:57:24,583INFO processing sublist element:44
+2024-09-28 19:57:24,583INFO processing sublist element:python
+2024-09-28 19:57:24,583INFO the result is:[1, 2, 3, 44],['sham']
+2024-09-28 19:58:47,643INFO processing each element,1
+2024-09-28 19:58:47,669INFO processing each element,2
+2024-09-28 19:58:47,669INFO processing each element,sham
+2024-09-28 19:58:47,669INFO processing each element,[3, 'hello', 'world']
+2024-09-28 19:58:47,669INFO processing sublist element:3
+2024-09-28 19:58:47,669INFO processing sublist element:hello
+2024-09-28 19:58:47,669INFO processing sublist element:world
+2024-09-28 19:58:47,669INFO processing each element,[44, 'python']
+2024-09-28 19:58:47,669INFO processing sublist element:44
+2024-09-28 19:58:47,669INFO processing sublist element:python
+2024-09-28 19:58:47,669INFO the result is:[1, 2, 3, 44],['sham']
+2024-09-28 20:13:28,873INFO processing each element,1
+2024-09-28 20:13:28,874INFO processing each element,2
+2024-09-28 20:13:28,875INFO processing each element,sham
+2024-09-28 20:13:28,875INFO processing each element,[3, 'hello', 'world']
+2024-09-28 20:13:28,875INFO processing sublist element:3
+2024-09-28 20:13:28,875INFO processing sublist element:hello
+2024-09-28 20:13:28,875INFO processing sublist element:world
+2024-09-28 20:13:28,875INFO processing each element,[44, 'python']
+2024-09-28 20:13:28,875INFO processing sublist element:44
+2024-09-28 20:13:28,875INFO processing sublist element:python
+2024-09-28 20:13:28,876INFO the result is:[1, 2, 3, 44],['sham']
+2024-09-28 20:13:28,876INFO the result is:[1, 2, 3, 44]
+2024-09-28 20:13:44,819INFO processing each element,1
+2024-09-28 20:13:44,819INFO processing each element,2
+2024-09-28 20:13:44,820INFO processing each element,sham
+2024-09-28 20:13:44,820INFO processing each element,[3, 'hello', 'world']
+2024-09-28 20:13:44,820INFO processing sublist element:3
+2024-09-28 20:13:44,820INFO processing sublist element:hello
+2024-09-28 20:13:44,820INFO processing sublist element:world
+2024-09-28 20:13:44,820INFO processing each element,[44, 'python']
+2024-09-28 20:13:44,820INFO processing sublist element:44
+2024-09-28 20:13:44,820INFO processing sublist element:python
+2024-09-28 20:13:44,821INFO the result is:[1, 2, 3, 44],['sham']
+2024-09-28 20:13:44,821INFO the result is:[1, 2, 3, 44]
+2024-09-28 20:16:24,373INFO processing each element,1
+2024-09-28 20:16:24,373INFO processing each element,2
+2024-09-28 20:16:24,374INFO processing each element,sham
+2024-09-28 20:16:24,374INFO processing each element,[3, 'hello', 'world']
+2024-09-28 20:16:24,374INFO processing sublist element:3
+2024-09-28 20:16:24,374INFO processing sublist element:hello
+2024-09-28 20:16:24,374INFO processing sublist element:world
+2024-09-28 20:16:24,374INFO processing each element,[44, 'python']
+2024-09-28 20:16:24,374INFO processing sublist element:44
+2024-09-28 20:16:24,374INFO processing sublist element:python
+2024-09-28 20:16:24,375INFO the result is:[1, 2, 3, 44],['sham']
+2024-09-28 20:16:24,375INFO the result is:[1, 2, 3, 44]
+2024-09-28 20:21:11,290INFO processing each element,1
+2024-09-28 20:21:11,290INFO processing each element,2
+2024-09-28 20:21:11,290INFO processing each element,sham
+2024-09-28 20:21:11,291INFO processing each element,[3, 'hello', 'world']
+2024-09-28 20:21:11,291INFO processing sublist element:3
+2024-09-28 20:21:11,291INFO processing sublist element:hello
+2024-09-28 20:21:11,291INFO processing sublist element:world
+2024-09-28 20:21:11,291INFO processing each element,[44, 'python']
+2024-09-28 20:21:11,291INFO processing sublist element:44
+2024-09-28 20:21:11,291INFO processing sublist element:python
+2024-09-28 20:21:11,292INFO the result is:[1, 2, 3, 44],['sham']
+2024-09-28 20:21:11,292INFO the result is:[1, 2, 3, 44]
+2024-09-28 20:27:17,745INFO processing each element,1
+2024-09-28 20:27:17,746INFO processing each element,2
+2024-09-28 20:27:17,746INFO processing each element,sham
+2024-09-28 20:27:17,746INFO processing each element,[3, 'hello', 'world']
+2024-09-28 20:27:17,746INFO processing sublist element:3
+2024-09-28 20:27:17,746INFO processing sublist element:hello
+2024-09-28 20:27:17,746INFO processing sublist element:world
+2024-09-28 20:27:17,746INFO processing each element,[44, 'python']
+2024-09-28 20:27:17,746INFO processing sublist element:44
+2024-09-28 20:27:17,746INFO processing sublist element:python
+2024-09-28 20:27:17,746INFO the result is:[1, 2, 3, 44],['sham']
+2024-09-28 20:27:17,746INFO the result is:[1, 2, 3, 44]
+2024-09-28 20:27:17,746INFO the result of prime no is:[2, 3]
+2024-10-02 11:22:34,280INFO processing each element,1
+2024-10-02 11:22:34,281INFO processing each element,2
+2024-10-02 11:22:34,282INFO processing each element,sham
+2024-10-02 11:22:34,282INFO processing each element,11
+2024-10-02 11:22:34,282INFO processing each element,[3, 7, 9, 'hello', 'world']
+2024-10-02 11:22:34,282INFO processing sublist element:3
+2024-10-02 11:22:34,282INFO processing sublist element:7
+2024-10-02 11:22:34,282INFO processing sublist element:9
+2024-10-02 11:22:34,282INFO processing sublist element:hello
+2024-10-02 11:22:34,282INFO processing sublist element:world
+2024-10-02 11:22:34,282INFO processing each element,[44, 'python', 13]
+2024-10-02 11:22:34,283INFO processing sublist element:44
+2024-10-02 11:22:34,283INFO processing sublist element:python
+2024-10-02 11:22:34,283INFO processing sublist element:13
+2024-10-02 11:22:34,283INFO the result is:[1, 2, 11, 3, 7, 9, 44, 13],['sham']
+2024-10-02 11:22:34,283INFO the result is:[1, 2, 11, 3, 7, 9, 44, 13]
+2024-10-02 11:22:34,284INFO the result of prime no is:[2, 11, 3, 7, 13]
